@@ -1,0 +1,161 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+}
+.flexbox {
+  width: 100%;
+  height: 55vh;
+  margin-top: 11%;
+  /* margin-bottom: 50%; */
+  background-color: white;
+}
+.ready {
+  position: absolute;
+  width: 10;
+  height: 2em;
+  margin-left: 40%;
+  margin-top: 0.4em;
+}
+.carrer {
+  position: absolute;
+  margin-top: 1.6em;
+  height: 2em;
+  margin-left: 42%;
+}
+.container {
+  position: absolute;
+  background-color: #f5eee8;
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: flex-start; */
+  text-align: center;
+  width: 70%;
+  height: 30%;
+  margin-left: 16%;
+  margin-top: 8%;
+  border-radius: 20px;
+  /* gap:2em; */
+}
+.box1 {
+  position: absolute;
+  width: 7.8em;
+  height: 7.8em;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 3.3em;
+  margin-left: 5em;
+}
+.one {
+  position: absolute;
+  width: 2.5em;
+  height: 2.5em;
+  background-color: #f5eee8;
+  border-radius: 7px;
+  margin-top: 1em;
+  margin-left: 2.7em;
+}
+.one-para {
+  position: absolute;
+  padding: 10px;
+  margin-left: 4.9px;
+  font-size: 1.2em;
+  margin-top: 0em;
+}
+.text-para1 {
+  position: absolute;
+  z-index: 1;
+  margin-top: 4.5em;
+  margin-left: 1em;
+}
+.text-para1-2 {
+  position: absolute;
+  z-index: 1;
+  margin-top: 5.7em;
+  margin-left: 2.1em;
+}
+.box2 {
+  position: absolute;
+  width: 7.8em;
+  height: 7.8em;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 3.3em;
+  margin-left: 17em;
+}
+.text-para2 {
+  position: absolute;
+  z-index: 1;
+  margin-top: 4.5em;
+  margin-left: 1.8em;
+}
+.text-para2-2 {
+  position: absolute;
+  width: 8em;
+  z-index: 1;
+  margin-top: 5.7em;
+  margin-left: -.2em;
+}
+.box3 {
+  position: absolute;
+  width: 7.8em;
+  height: 7.8em;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 3.3em;
+  margin-left: 29em;
+}
+.text-para3 {
+  position: absolute;
+  z-index: 1;
+  margin-top: 4.5em;
+  margin-left: 2em;
+}
+.text-para3-2 {
+  position: absolute;
+  z-index: 1;
+  margin-top: 5.7em;
+  margin-left: 1.7em;
+}
+.box4 {
+  position: absolute;
+  width: 7.8em;
+  height: 7.8em;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 3.3em;
+  margin-left: 41em;
+}
+.text-para4 {
+  position: absolute;
+  z-index: 1;
+  margin-top: 4.5em;
+  margin-left: 1.9em;
+}
+.box5 {
+  position: absolute;
+  width: 7.8em;
+  height: 7.8em;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 3.3em;
+  margin-left: 53em;
+}
+.text-para5 {
+  position: absolute;
+  width: 7em;
+  z-index: 1;
+  margin-top: 4.5em;
+  margin-left: .5em;
+}
+.text-para5-2 {
+  position: absolute;
+  width: 7em;
+  z-index: 1;
+  margin-top: 5.7em;
+  margin-left: .4em;
+}
